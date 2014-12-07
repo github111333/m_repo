@@ -17,6 +17,12 @@ namespace Simple_console_app
             Console.WriteLine("Ievadi x: "); s = Console.ReadLine(); x = int.Parse(s);
             Console.WriteLine("Ievadi y: "); s = Console.ReadLine(); y = int.Parse(s);
             z = x * y;
+            while (z >= 1)
+            {
+                Console.Write("*");
+                z--;
+            }
+            
             Console.ReadLine();
         }
     }
