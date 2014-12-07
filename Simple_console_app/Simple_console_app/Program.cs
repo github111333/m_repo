@@ -12,10 +12,11 @@ namespace Simple_console_app
         {
             Console.WriteLine("This is simple Console App.");
 
-            int x, y;
+            int x, y, z;
             string s;
             Console.WriteLine("Ievadi x: "); s = Console.ReadLine(); x = int.Parse(s);
-            Console.WriteLine("Ievadi y: "); s = Console.ReadLine(); y = int.Parse(s);      
+            Console.WriteLine("Ievadi y: "); s = Console.ReadLine(); y = int.Parse(s);
+            z = x * y;
             Console.ReadLine();
         }
     }
