@@ -1,0 +1,6 @@
+c:\users\alexti\documents\visual studio 2012\Projects\Simple_console_app\Simple_console_app\bin\Debug\Simple_console_app.exe.config
+c:\users\alexti\documents\visual studio 2012\Projects\Simple_console_app\Simple_console_app\bin\Debug\Simple_console_app.exe
+c:\users\alexti\documents\visual studio 2012\Projects\Simple_console_app\Simple_console_app\bin\Debug\Simple_console_app.pdb
+c:\users\alexti\documents\visual studio 2012\Projects\Simple_console_app\Simple_console_app\obj\Debug\Simple_console_app.csprojResolveAssemblyReference.cache
+c:\users\alexti\documents\visual studio 2012\Projects\Simple_console_app\Simple_console_app\obj\Debug\Simple_console_app.exe
+c:\users\alexti\documents\visual studio 2012\Projects\Simple_console_app\Simple_console_app\obj\Debug\Simple_console_app.pdb
